@@ -156,6 +156,7 @@
     <Content Include="fonts\themify.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="img\aboutBG.jpg" />
     <Content Include="img\about\about_lft.png" />
     <Content Include="img\about\about_right.png" />
     <Content Include="img\banner\banner.png" />
@@ -246,9 +247,9 @@
     <Content Include="img\service\1.png" />
     <Content Include="img\service\2.png" />
     <Content Include="img\service\3.png" />
-    <Content Include="img\team\1.png" />
-    <Content Include="img\team\2.png" />
-    <Content Include="img\team\3.png" />
+    <Content Include="img\team\member1.png" />
+    <Content Include="img\team\member2.jpeg" />
+    <Content Include="img\team\member4.jpeg" />
     <Content Include="img\testmonial\1.png" />
     <Content Include="js\ajax-form.js" />
     <Content Include="js\bootstrap.min.js" />
